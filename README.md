@@ -1,2 +1,2 @@
 # CloudMusic
-![](https://github.com/PeachLuis/CloudMusic/raw/master/Picu/homepage.png
+![](https://github.com/PeachLuis/CloudMusic/raw/master/images/homepage.png
